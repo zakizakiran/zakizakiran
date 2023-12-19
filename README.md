@@ -12,10 +12,10 @@
 ```dart
 var aboutMe = {
   pronouns: 'he' | 'him',
-  language: [HTML, CSS, Javascript, PHP, Dart, Python, Java, Kotlin],
-  frameworkAndLibrary: [React, Flutter, Laravel, Tailwind],
-  design: [Figma],
-  other: [Firebase],
+  language: ['HTML', 'CSS', 'Javascript', 'PHP', 'Dart', 'Python', 'Java', 'Kotlin'],
+  frameworkAndLibrary: ['React', 'Flutter', 'Laravel', 'Tailwind'],
+  design: ['Figma'],
+  other: ['Firebase'],
 }
 ```
 
