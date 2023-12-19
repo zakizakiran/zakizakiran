@@ -7,15 +7,15 @@
 
 - 👀 I’m interested in Mobile Development, UI/UX Design
 
-- const aboutMe = {
+```javascript
+const aboutMe = {
   pronouns: 'he' | 'him',
-  language: [Javascript, Typescript, HTML, CSS, Python, Node, Solidity],
-  frameworkAndLibrary: [React, Next, Tailwind, StyledComponents],
+  language: [Javascript, HTML, CSS, Dart, Python, Java, Kotlin],
+  frameworkAndLibrary: [React, Flutter, Tailwind],
   design: [Figma],
-  other: [Firebase, Hardhat],
-  currentlyLearning: [ML, SmartContract, Storybook, Testing (Cypress, Vitest)]
+  other: [Firebase],
 }
-
+```
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakizakiran&show_icons=true&locale=en&layout=compact" alt="zakizakiran" /></p>
