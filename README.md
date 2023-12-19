@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mzakizakiran@gmail.com**
 
-- 👀 I’m interested in Mobile Development, UI/UX Design
+- 👀 I’m interested in Mobile Development, Web Development, UI/UX Design
 
 ```dart
 var aboutMe = {
