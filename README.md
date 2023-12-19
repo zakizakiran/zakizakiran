@@ -10,8 +10,8 @@
 ```javascript
 const aboutMe = {
   pronouns: 'he' | 'him',
-  language: [Javascript, HTML, CSS, Dart, Python, Java, Kotlin],
-  frameworkAndLibrary: [React, Flutter, Tailwind],
+  language: [HTML, CSS, Javascript, PHP, Dart, Python, Java, Kotlin],
+  frameworkAndLibrary: [React, Flutter, Laravel, Tailwind],
   design: [Figma],
   other: [Firebase],
 }
