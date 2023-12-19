@@ -21,4 +21,5 @@ var aboutMe = {
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakizakiran&show_icons=true&locale=en&layout=compact" alt="zakizakiran" /></p>
+<p><img align="center" data-theme="dark" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakizakiran&show_icons=true&locale=en&layout=compact" alt="zakizakiran" /></p>
+              
