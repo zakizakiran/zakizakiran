@@ -9,8 +9,8 @@
 
 - 👀 I’m interested in Mobile Development, UI/UX Design
 
-```javascript
-const aboutMe = {
+```dart
+var aboutMe = {
   pronouns: 'he' | 'him',
   language: [HTML, CSS, Javascript, PHP, Dart, Python, Java, Kotlin],
   frameworkAndLibrary: [React, Flutter, Laravel, Tailwind],
@@ -18,5 +18,7 @@ const aboutMe = {
   other: [Firebase],
 }
 ```
+
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakizakiran&show_icons=true&locale=en&layout=compact" alt="zakizakiran" /></p>
