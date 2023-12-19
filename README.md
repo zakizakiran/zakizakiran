@@ -20,6 +20,8 @@ var aboutMe = {
 ```
 
 <br>
-
-<p><img align="center" data-theme="dark" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakizakiran&show_icons=true&locale=en&layout=compact" alt="zakizakiran" /></p>
               
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakizakiran&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
