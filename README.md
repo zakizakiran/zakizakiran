@@ -10,7 +10,7 @@
 - 👀 I’m interested in Mobile Development, Web Development, UI/UX Design
 
 ```dart
-var aboutMe = {
+final aboutMe = {
   pronouns: 'he' | 'him',
   language: ['HTML', 'CSS', 'Javascript', 'PHP', 'Dart', 'Python', 'Java', 'Kotlin'],
   frameworkAndLibrary: ['React', 'Flutter', 'Laravel', 'Tailwind'],
