@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **mzakizakiran@gmail.com**
 
