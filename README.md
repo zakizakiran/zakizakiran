@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **mzakizakiran@gmail.com**
 
