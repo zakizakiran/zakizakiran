@@ -3,8 +3,6 @@
 
 <br>
 
-- 🌱 I’m currently learning **NextJS**
-
 - 📫 How to reach me **mzakizakiran@gmail.com**
 
 - 👀 I’m interested in Mobile Development, Web Development, UI/UX Design
